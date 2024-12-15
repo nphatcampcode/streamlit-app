@@ -15,7 +15,7 @@ import time
 import numpy as np
 
 
-st.set_page_config(page_title="Smart Decision Assistant", page_icon="🧊", layout="wide")
+st.set_page_config(page_title="AI-Powered Career Advisor", page_icon="🧊", layout="wide")
 
 # Getting Image path
 gif_path = os.path.join(os.getcwd(), 'Images/Logo.gif')
