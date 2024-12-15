@@ -374,6 +374,9 @@ def main():
                         2. Upload your Resume/Background information. 
                         3. Compare your background to a job description 
                         4. Generate a table by inputting your wanted job title for job recommendations 
+                        <div style="text-align: center;">
+                        <img src="https://i.postimg.cc/4nYvfKnY/qrcode.png" alt="AI Career Advisor" style="width: 100%; max-width: 250px; border-radius: 10px;">
+                        </div>
                         <br>
 
                      
