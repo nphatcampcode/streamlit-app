@@ -21,8 +21,9 @@ st.set_page_config(page_title="Smart Decision Assistant", page_icon="🧊", layo
 gif_path = os.path.join(os.getcwd(), 'Images/Logo.gif')
 
 
-# Google API setup
-geminiapi = "AIzaSyDcFxNCbrVNZoT4-l5dp_Fmn1miFUD7_YE"
+# Debugging st.secrets
+# Attempt to retrieve the API key
+geminiapi = st.secrets.get("geminiapi", "API key not found")
 genai.configure(api_key=geminiapi)
 
 # %%
