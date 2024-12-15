@@ -1,0 +1,7 @@
+PyPDF2
+openpyxl
+google-generativeai
+pandas
+google
+python-jobspy
+streamlit
