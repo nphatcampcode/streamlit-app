@@ -3,4 +3,4 @@ base="light"
 [server]
 enableXsrfProtection = false
 enableWebsocketCompression = false
-
+allowWebsocketOrigin = ["tnp.io.vn"]
