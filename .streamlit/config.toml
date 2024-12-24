@@ -2,3 +2,5 @@
 base="light"
 [server]
 enableXsrfProtection = false
+enableWebsocketCompression = false
+
